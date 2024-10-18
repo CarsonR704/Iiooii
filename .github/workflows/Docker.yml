@@ -1,4 +1,4 @@
-```name: Publish image to Docker Hub
+Interstellar: Publish image to Docker Hub
 on:
   [workflow_dispatch]
 
